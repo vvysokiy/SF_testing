@@ -1,0 +1,28 @@
+{
+  "name": "sf_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvysokiy/sf_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvysokiy/sf_testing/issues"
+  },
+  "homepage": "https://github.com/vvysokiy/sf_testing#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.4.0",
+    "jest": "^25.4.0"
+  },
+  "dependencies": {
+    "cypress": "^4.4.1"
+  }
+}
